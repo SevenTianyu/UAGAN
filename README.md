@@ -1,4 +1,4 @@
-# 文献40 《Training Federated GANs with Theoretical Guarantees: A Universal Aggregation Approach》代码
+# 【2021 - arxiv】文献40 《Training Federated GANs with Theoretical Guarantees: A Universal Aggregation Approach》代码
 # This repository contains the Pytorch code for the paper:
 Training Federated GANs with Theoretical Guarantees:  A Universal Aggregation Approach
 
